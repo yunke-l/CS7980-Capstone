@@ -1,12 +1,12 @@
 # A Comparative Study of SLMs and LLMs in Customer Review Analysis
-More results of this study can be found in [[Poster]](/poster.pdf)
+More results of this study can be found in [[Poster]](/poster.pdf) and the code.
 
 ## Overview
 This study conducts a comprehensive comparison of the performance trade-offs between Small Language Models (SLMs) and Large Language Models (LLMs) on two critical tasks in customer review analysis: **sentiment polarity classification** and **correlation analysis with product categories**. 
 
 ### Selected Models
 - SLMs: DistilBERT, ELECTRA
-- Selected LLMs: Flan-T5, Flan-UL2
+- LLMs: Flan-T5, Flan-UL2
 
 ### Dataset
 [Amazon US Customer Reviews Dataset](https://www.kaggle.com/datasets/cynthiarempel/amazon-us-customer-reviews-dataset/data)
